@@ -7,7 +7,7 @@ function botaoClicado() {
 
 // Se o botão alert for clicado irá mostar uma mensagen
 function exibirAlerta() {
-    alert ('Eu amo JavaScript')
+    alert ('Eu amo JS')
 }
 function exibirPrompt() {
     let nomeDaCidade = prompt('Digite um nome de uma cidade que você gosta muito')
